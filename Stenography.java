@@ -2,7 +2,7 @@ package zi;
 
 import java.io.*;
 
-public class Lab4 {
+public class Stenography {
 
 	final static long HEADSIZE = 120;
 	static int textSize = 0;
