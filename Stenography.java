@@ -1,5 +1,3 @@
-package zi;
-
 import java.io.*;
 
 public class Stenography {
